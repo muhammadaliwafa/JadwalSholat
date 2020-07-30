@@ -1,0 +1,11 @@
+#######################################
+# Syntax Coloring Map For JadwalSholat
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+waktuSholat	KEYWORD2
+sholatCal	KEYWORD2
