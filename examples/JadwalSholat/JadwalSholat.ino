@@ -1,5 +1,5 @@
-/* Library ini merupakan hasil modif dari WS_CalculateTime dari DF*/
 #include <JadwalSholat.h>
+
 void setup() {
     Serial.begin(115200);
     int Tahun = 2020, 
